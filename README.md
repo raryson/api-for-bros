@@ -22,9 +22,11 @@ hit on a port 3000
 ## Available Routes
 
 #Get ('/') -> Get all customers
+
 #Post ('/') -> Create a new customer (Passing email, name, age and password on body)
 
 ## Working Routes
 
 #Put ('/') -> Update a customer
+
 #Delete ('/) -> Delete a customer
